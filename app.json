@@ -1,0 +1,12 @@
+{
+  "name": "mobifin",
+  "displayName": "mobifin",
+  "expo": {
+    "name": "mobifin",
+    "slug": "mobifin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
