@@ -49,11 +49,11 @@ export function SignIn(): JSX.Element {
         <TitleWrapper>
           <LogoSvg width={RFValue(120)} height={RFValue(68)} />
           <Title>
-            Controle suas {"\n"} financas de forma{"\n"} muito simples
+            Simplifique {"\n"} a sua{"\n"} vida
           </Title>
         </TitleWrapper>
         <SignInTitle>
-          Faça seu login com {"\n"}uma das contas abaixo
+          Faça seu login com {"\n"}uma sua conta preferida
         </SignInTitle>
       </Header>
       <Footer>
